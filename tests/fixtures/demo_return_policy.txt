@@ -1,0 +1,15 @@
+TEST FIXTURE ONLY - synthetic document used by the automated tests. Not part of the knowledge base.
+
+Demo Store Return Policy
+
+Return window
+Most items can be returned within 30 days of delivery for a full refund to the original payment method. Items must be unused, in original packaging, with all accessories.
+
+Clearance and discounted items
+Items marked as clearance are final sale and cannot be returned or exchanged. Items bought with a regular promotional discount follow the standard return window.
+
+Refund timing
+Refunds are issued within 5 business days after the returned item is inspected at our warehouse.
+
+Non-returnable items
+Gift cards, downloadable software and personal care items that have been opened cannot be returned.

@@ -1,0 +1,53 @@
+{
+  "description": "Publicly available Indian documents used as the knowledge base (files in data/documents/). Web pages were saved from the browser as PDF. Titles and links here are shown in answer citations.",
+  "documents": [
+    {
+      "filename": "india_consumer_protection_ecommerce_rules_2020.pdf",
+      "title": "Consumer Protection (E-Commerce) Rules, 2020 (India)",
+      "doc_type": "return_refund_regulation",
+      "publisher": "Ministry of Consumer Affairs, Govt. of India - G.S.R. 462(E)",
+      "url": "https://taxguru.in/wp-content/uploads/2020/07/Consumer-Protection-E-Commerce-Rules-2020.pdf",
+      "format": "pdf"
+    },
+    {
+      "filename": "CP Act 2019_1732700731.pdf",
+      "title": "Consumer Protection Act, 2019 (India)",
+      "doc_type": "consumer_law",
+      "publisher": "Govt. of India (official text; also on India Code)",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/18964/1/cpa.pdf",
+      "format": "pdf"
+    },
+    {
+      "filename": "meesho.com_legal_returns, refunds and replacement_embed=true.pdf",
+      "title": "Meesho Returns, Exchange and Refunds Policy",
+      "doc_type": "return_policy",
+      "publisher": "Meesho (official legal page, saved as PDF)",
+      "url": "https://www.meesho.com/legal/returns,%20refunds%20and%20replacement?embed=true",
+      "format": "html"
+    },
+    {
+      "filename": "Learn More About Shipping & Delivery Charges for Meesho Supplier.pdf",
+      "title": "Meesho Shipping, Delivery & Returns Policy (sellers)",
+      "doc_type": "shipping_and_return_policy",
+      "publisher": "Meesho (supplier website, saved as PDF)",
+      "url": "https://supplier.meesho.com/shipping",
+      "format": "html"
+    },
+    {
+      "filename": "Penalty Structure and Handling Incorrect Penalties _ Meesho.pdf",
+      "title": "Meesho Supplier Learning Hub: Penalty Structure",
+      "doc_type": "seller_policy",
+      "publisher": "Meesho (supplier learning hub, saved as PDF)",
+      "url": "https://supplier.meesho.com/learning-hub/lessons/how-to-handle-incorrect-penalties",
+      "format": "html"
+    },
+    {
+      "filename": "Siphon_WP_Manual_1.pdf",
+      "title": "Havells Siphon Water Purifier User Manual",
+      "doc_type": "product_manual",
+      "publisher": "Havells India Ltd. (official product manual)",
+      "url": "https://havells.com/media/wysiwyg/Siphon_WP_Manual_1.pdf",
+      "format": "pdf"
+    }
+  ]
+}

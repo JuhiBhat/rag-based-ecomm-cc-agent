@@ -1,0 +1,6 @@
+{
+  "documents": [
+    {"filename": "demo_return_policy.txt", "title": "Demo Store Return Policy", "url": "", "doc_type": "return_policy"},
+    {"filename": "demo_blender_manual.txt", "title": "Demo Blender BX-200 Owner's Manual", "url": "", "doc_type": "product_manual"}
+  ]
+}

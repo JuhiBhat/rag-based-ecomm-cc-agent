@@ -1,0 +1,15 @@
+TEST FIXTURE ONLY - synthetic document used by the automated tests. Not part of the knowledge base.
+
+Demo Blender BX-200 Owner's Manual
+
+Safety
+Always unplug the blender before cleaning the blades. Never run the blender motor empty for more than 10 seconds.
+
+Cleaning
+Fill the jar halfway with warm water and a drop of dish soap, then run on low speed for 30 seconds. Rinse and dry.
+
+Limited warranty
+The blender motor base is covered by a limited warranty for two years from the date of purchase against defects in materials and workmanship. Keep your receipt as proof of purchase.
+
+Troubleshooting
+If the blender does not start, check that the jar is locked onto the motor base and the plug is seated firmly.

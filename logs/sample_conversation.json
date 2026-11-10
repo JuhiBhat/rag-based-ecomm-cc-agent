@@ -1,0 +1,621 @@
+[
+  {
+    "conversation": "Meesho returns (follow-ups)",
+    "message_id": "e81120f5-b729-4343-afdc-a023d3db7164",
+    "session_id": "e12fec2e-1a8a-4949-a80f-7578161c4705",
+    "question": "What is Meesho's return and exchange policy?",
+    "standalone_question": "What is Meesho's return and exchange policy?",
+    "answer": "Based on the Meesho.Com Legal Returns, Refunds And Replacement document, here is a summary of the return and exchange policy:\n\n**Returns**\n*   You can return products purchased on the Platform within the specified return period detailed on the product description page [1][2].\n*   To initiate a return, you must create a 'return request' under the 'My Orders' section and follow the platform's instructions [2].\n*   The product must be kept in its original manufacturer's packaging with all tags intact, be unused, and include any warranty card [3].\n*   Returns are subject to quality checks at pickup and upon receipt; if the product fails these checks or is not in an acceptable condition, no refund will be made [3].\n*   Products explicitly identified as 'not returnable' on the product detail page cannot be returned [1].\n\n**Exchanges**\n*   Exchanges are subject to the reason provided by the customer; products are not eligible for exchange if the reason is lack of interest or quality issues, and Meesho will not accept exchanges if the wrong product is sent, the return process wasn't followed, or the request is made in bad faith [4].\n*   The exchange request must be raised within the return window period specified on the product detail page [4].\n*   Once a product has been exchanged, no further exchanges can be made on the same order [2].\n*   If an exchange cannot be met due to product unavailability, Meesho may convert the request to a return at its sole discretion [2].",
+    "refused": false,
+    "sources": [
+      {
+        "ref": 1,
+        "title": "Meesho.Com Legal Returns, Refunds And Replacement Embed=True",
+        "source": "meesho.com_legal_returns, refunds and replacement_embed=true.pdf",
+        "page": 1,
+        "url": "",
+        "score": 0.7335,
+        "rerank_score": 0.7,
+        "excerpt": "Returns, Exchange and Refunds Policy\n \nReturns, Refunds and Exchange is the scheme provided by various sellers listed on \n\u2018Meesho\u2019s\u2019 website available at www.meesho.com or the mobile application under the brand \nname \u201cMeesho\u201d (collectively \u201cPlatform\u201d), in relation to specific products. Returns, refund \nand exchange policy gives you an option to return, or exchange items purchased on the \nPlatform,"
+      },
+      {
+        "ref": 2,
+        "title": "Meesho.Com Legal Returns, Refunds And Replacement Embed=True",
+        "source": "meesho.com_legal_returns, refunds and replacement_embed=true.pdf",
+        "page": 5,
+        "url": "",
+        "score": 0.6974,
+        "rerank_score": 0.7,
+        "excerpt": "less than the original product delivered, the difference in amount will be refunded. In the \nevent that Meesho or the seller is not able to meet the exchange requested by You due to non \navailability of the product, the exchange request will be converted to a return request by \nMeesho, at the sole discretion of Meesho and such a return will be subject to the terms and \nconditions of this policy.\n "
+      },
+      {
+        "ref": 3,
+        "title": "Meesho.Com Legal Returns, Refunds And Replacement Embed=True",
+        "source": "meesho.com_legal_returns, refunds and replacement_embed=true.pdf",
+        "page": 6,
+        "url": "",
+        "score": 0.6849,
+        "rerank_score": 0.7,
+        "excerpt": "g. \nPlease keep the product in the original manufacturer\u2019s packaging, all tags should be \nintact, the product should be unused and warranty card, if any, should also be placed \nwith the product.\nh. \nAt the time of pick up, our delivery partner may conduct a quality check on the \nproduct to ensure the product meets the criteria specified under return guidelines. If \nthe product fails such a quality"
+      },
+      {
+        "ref": 4,
+        "title": "Meesho.Com Legal Returns, Refunds And Replacement Embed=True",
+        "source": "meesho.com_legal_returns, refunds and replacement_embed=true.pdf",
+        "page": 4,
+        "url": "",
+        "score": 0.683,
+        "rerank_score": 0.7,
+        "excerpt": "exchanged will depend upon the reason for exchange provided by the customer. The product \nwill not be eligible for exchange if the reason for exchange is either of: (a) the customer is \nnot interested in the product, or (b) quality issues with the product. \nFurther, Meesho will not be accepting any exchanges if: (a) the product which is being \nexchanged is not the same product that was purchased o"
+      }
+    ],
+    "retrieval": {
+      "reranker": "llm",
+      "retrieved": 20,
+      "candidates": 20,
+      "kept": 4,
+      "top_rerank_scores": [
+        0.7,
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ]
+    }
+  },
+  {
+    "conversation": "Meesho returns (follow-ups)",
+    "message_id": "c16dcc9e-3ab4-4fb6-9a9a-f81d9d5e8ef2",
+    "session_id": "e12fec2e-1a8a-4949-a80f-7578161c4705",
+    "question": "What about eligibility - are there conditions the product must meet?",
+    "standalone_question": "What are the specific conditions and eligibility requirements for returns on Meesho, such as packaging, tags, warranty cards, and prohibited reasons like lack of interest or quality issues?",
+    "answer": "Based on the Meesho.Com Legal Returns, Refunds And Replacement document, the product must meet the following conditions to be eligible for return or exchange:\n\n*   **Condition and Packaging:** The product must be in its original condition with all packaging (brand/manufacturer\u2019s box), tags, warranty cards, and accessories intact [2].\n*   **Usage Status:** It must be unused, unwashed, unsoiled, without stains, and have non-tampered quality check seals or return tags [2].\n*   **Integrity:** The product must not be damaged in your possession or used/altered [2].\n*   **Identity:** It must be the exact same product that was originally delivered to you [2].\n*   **Timing:** The request must be made within the return window specified on the product detail page [2][4].\n*   **Matching Records:** The IMEI, name, image, brand, serial number, article number, or bar code of the returned/exchanged product must match Meesho's records [2].\n*   **Documentation:** A warranty card (if any) must be included; returns or exchanges are not accepted if it is missing [4].\n*   **Data Privacy:** For electronic devices storing personal information, all such data must be deleted, the device formatted, and screen locks disabled before returning [4].\n\nAdditionally, products will not be eligible for exchange if the reason provided is simply that the customer is not interested or if there are quality issues with the product [3].",
+    "refused": false,
+    "sources": [
+      {
+        "ref": 2,
+        "title": "Meesho.Com Legal Returns, Refunds And Replacement Embed=True",
+        "source": "meesho.com_legal_returns, refunds and replacement_embed=true.pdf",
+        "page": 9,
+        "url": "",
+        "score": 0.7095,
+        "rerank_score": 1.0,
+        "excerpt": "Common Guidelines for Return and Exchange\n \nPrior to initiating a return or exchange request on the Platform, You shall ensure that, the \nproduct which is either being returned or exchanged: \na. \nmust be in its original condition with all the packaging including \nbrand/manufacturer\u2019s box/packaging, tags, warranty cards and other accessories \nintact;\nb. \nmust not be damaged in your possession;\nc. \n"
+      },
+      {
+        "ref": 3,
+        "title": "Meesho.Com Legal Returns, Refunds And Replacement Embed=True",
+        "source": "meesho.com_legal_returns, refunds and replacement_embed=true.pdf",
+        "page": 4,
+        "url": "",
+        "score": 0.7078,
+        "rerank_score": 1.0,
+        "excerpt": "exchanged will depend upon the reason for exchange provided by the customer. The product \nwill not be eligible for exchange if the reason for exchange is either of: (a) the customer is \nnot interested in the product, or (b) quality issues with the product. \nFurther, Meesho will not be accepting any exchanges if: (a) the product which is being \nexchanged is not the same product that was purchased o"
+      },
+      {
+        "ref": 4,
+        "title": "Meesho.Com Legal Returns, Refunds And Replacement Embed=True",
+        "source": "meesho.com_legal_returns, refunds and replacement_embed=true.pdf",
+        "page": 10,
+        "url": "",
+        "score": 0.6973,
+        "rerank_score": 1.0,
+        "excerpt": "If the return is not eligible for pickup, a return option will not be available\nc. \nIf you have requested for a return, you will be provided with a refund once the product \nreturned has been received by the seller. If you have requested for an exchange, you \nwill be provided with the exchange produced. \nd. \nIf you intend to return/exchange an electronic device that stores any personal \ninformation"
+      }
+    ],
+    "retrieval": {
+      "reranker": "llm",
+      "retrieved": 20,
+      "candidates": 20,
+      "kept": 4,
+      "top_rerank_scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "conversation": "Meesho returns (follow-ups)",
+    "message_id": "e74989e3-49b8-43ee-aa0e-6813f932c9fc",
+    "session_id": "e12fec2e-1a8a-4949-a80f-7578161c4705",
+    "question": "Does this apply to discounted items?",
+    "standalone_question": "Does Meesho's return and exchange policy, including the eligibility conditions for the product (original packaging, unused condition, matching records, etc.), apply to discounted items?",
+    "answer": "Based on the Meesho.Com Legal Returns, Refunds And Replacement document, yes, the policy applies to discounted items, but with a specific condition regarding offers:\n\n*   **Eligibility:** Products sold under any offer, promotion, or discount are still eligible for return, provided they meet the standard conditions (e.g., being in good condition) [1].\n*   **Forfeiture of Benefits:** However, if you choose to return a product that had an offer, promotion, or discount applied to it, those benefits will be forfeited [2].",
+    "refused": false,
+    "sources": [
+      {
+        "ref": 1,
+        "title": "Meesho.Com Legal Returns, Refunds And Replacement Embed=True",
+        "source": "meesho.com_legal_returns, refunds and replacement_embed=true.pdf",
+        "page": 1,
+        "url": "",
+        "score": 0.7186,
+        "rerank_score": 0.7,
+        "excerpt": "products that are explicitly identified as \u2018not returnable\u2019 on the product detail page cannot be \nreturned while the products which are identified as \u2018returnable\u2019 are eligible for return with the \nconditions as specified in the product description page and this policy. The Platform at its \ndiscretion may not accept returns of any Product for reasons, including but not limited to, the \nproducts bei"
+      },
+      {
+        "ref": 2,
+        "title": "Meesho.Com Legal Returns, Refunds And Replacement Embed=True",
+        "source": "meesho.com_legal_returns, refunds and replacement_embed=true.pdf",
+        "page": 11,
+        "url": "",
+        "score": 0.6663,
+        "rerank_score": 0.7,
+        "excerpt": "In the event any product is returned, then any offer, promotion, discount applied to \nsuch product shall be forfeited.\nd. \nIf you have made the payment through your bank account, the refund will be credited \nto the same bank account from which payment was received after deducting the cost \nof return (where applicable), once the return is received.\ne. \nIf you have made the payment as cash on delive"
+      }
+    ],
+    "retrieval": {
+      "reranker": "llm",
+      "retrieved": 20,
+      "candidates": 20,
+      "kept": 4,
+      "top_rerank_scores": [
+        0.7,
+        0.7,
+        0.4,
+        0.4,
+        0.4
+      ]
+    }
+  },
+  {
+    "conversation": "Meesho returns (follow-ups)",
+    "message_id": "2944e070-7bef-4475-bd1a-7df4af73d6c7",
+    "session_id": "e12fec2e-1a8a-4949-a80f-7578161c4705",
+    "question": "Who pays the return shipping fee?",
+    "standalone_question": "Who pays the return shipping fee on Meesho?",
+    "answer": "Based on the Learn More About Shipping & Delivery Charges For Meesho Supplier document, if a customer initiates a return, you (the seller) have to bear the return shipping fee [2]. However, if an order is not delivered and gets converted to an RTO (Return to Origin), the seller will not be charged any additional fee for shipping [1]. Additionally, in some exceptional cases, return shipping fees can be waived off [1].",
+    "refused": false,
+    "sources": [
+      {
+        "ref": 1,
+        "title": "Learn More About Shipping & Delivery Charges For Meesho Supplier",
+        "source": "Learn More About Shipping & Delivery Charges for Meesho Supplier.pdf",
+        "page": 5,
+        "url": "",
+        "score": 0.7657,
+        "rerank_score": 1.0,
+        "excerpt": "If a customer returns a product, then the seller is charged a return shipping fee based\non the weight of the shipment.\nIf an order is not delivered to a customer and gets converted to an RTO (Return to\nOrigin), the seller will not be charged any additional fee for shipping.\nAll return & RTO related charges can be tracked & managed using different tools that\nare provided to Meesho sellers.\nPlease n"
+      },
+      {
+        "ref": 2,
+        "title": "Penalty Structure And Handling Incorrect Penalties   Meesho",
+        "source": "Penalty Structure and Handling Incorrect Penalties _ Meesho.pdf",
+        "page": 2,
+        "url": "",
+        "score": 0.675,
+        "rerank_score": 1.0,
+        "excerpt": "temporarily or permanently.\u00a0\n1. Return Shipping Fee - If the customer initiates a return, you will have to bear the return\nshipping fee. Find the return shipping fee of a product by viewing its details.\n1. Other Penalties - If you send an empty box, missing products or wrong items to the\ncustomer, you will have to refund the customer on their purchase.\u00a0\nTo raise a ticket in case you have been char"
+      }
+    ],
+    "retrieval": {
+      "reranker": "llm",
+      "retrieved": 20,
+      "candidates": 20,
+      "kept": 4,
+      "top_rerank_scores": [
+        1.0,
+        1.0,
+        0.7,
+        0.7,
+        0.4
+      ]
+    }
+  },
+  {
+    "conversation": "Meesho seller side",
+    "message_id": "4f13023c-2fe8-486c-849f-ee784eb81d1f",
+    "session_id": "9d46a381-a20e-436f-b52b-20f90cc4b520",
+    "question": "What happens if a seller does not dispatch a Meesho order on time?",
+    "standalone_question": "What happens if a seller does not dispatch a Meesho order on time?",
+    "answer": "Based on the **Penalty Structure And Handling Incorrect Penalties Meesho**, if shipments are not dispatched a day after the expected dispatch date is crossed, the shipments get auto cancelled [1]. Additionally, according to the same document, this scenario falls under an \"Auto Cancellation Penalty\" [1]. However, the **Learn More About Shipping & Delivery Charges For Meesho Supplier** notes that if delays are out of the seller's control, Meesho will not charge any penalty in those specific cases [2].",
+    "refused": false,
+    "sources": [
+      {
+        "ref": 1,
+        "title": "Penalty Structure And Handling Incorrect Penalties   Meesho",
+        "source": "Penalty Structure and Handling Incorrect Penalties _ Meesho.pdf",
+        "page": 1,
+        "url": "",
+        "score": 0.687,
+        "rerank_score": 1.0,
+        "excerpt": "Sell on Meesho\n\u2714 How to Handle Incorrect Seller Penalty | Reverse Shipping & Ot\n\u2714 How to Handle Incorrect Seller Penalty | Reverse Shipping & Ot\nWatch on\nWas this helpful?\nHow to Handle Incorrect Penalties\nThere are different penalties for different scenarios that lead to inefficiencies in the delivery\nprocess.\u00a0\nLet\u2019s dive into the different types of penalties we have at Meesho:\u00a0\n1. Auto Cancellat"
+      },
+      {
+        "ref": 2,
+        "title": "Learn More About Shipping & Delivery Charges For Meesho Supplier",
+        "source": "Learn More About Shipping & Delivery Charges for Meesho Supplier.pdf",
+        "page": 6,
+        "url": "",
+        "score": 0.6578,
+        "rerank_score": 0.7,
+        "excerpt": "In order to maintain a good customer experience for customers, it is important for you to\nensure that the products you have listed on Meesho are in stock and available to ship.\nHowever, we understand that there could be delays that are out of your control leading to\nlate dispatch or order cancellation. In that case, Meesho will not charge any penalty to you\nso you can continue to sell online witho"
+      }
+    ],
+    "retrieval": {
+      "reranker": "llm",
+      "retrieved": 20,
+      "candidates": 20,
+      "kept": 4,
+      "top_rerank_scores": [
+        1.0,
+        0.7,
+        0.4,
+        0.4,
+        0.4
+      ]
+    }
+  },
+  {
+    "conversation": "Meesho seller side",
+    "message_id": "51eec520-be42-4891-968f-6d2c0628d168",
+    "session_id": "9d46a381-a20e-436f-b52b-20f90cc4b520",
+    "question": "Is there a penalty if the seller cancels the order?",
+    "standalone_question": "Is there a penalty if the seller cancels the order?",
+    "answer": "Based on the **Penalty Structure And Handling Incorrect Penalties Meesho**, if a seller cancels an order once it is placed, they are charged a penalty because dispatching the shipment is mandatory after an order comes in [1]. This specific charge is referred to as a \"Supplier Cancellation Penalty\" [1]. However, the **Learn More About Shipping & Delivery Charges For Meesho Supplier** clarifies that if delays leading to cancellation are out of the seller's control, Meesho will not charge any penalty [2].",
+    "refused": false,
+    "sources": [
+      {
+        "ref": 1,
+        "title": "Penalty Structure And Handling Incorrect Penalties   Meesho",
+        "source": "Penalty Structure and Handling Incorrect Penalties _ Meesho.pdf",
+        "page": 1,
+        "url": "",
+        "score": 0.666,
+        "rerank_score": 1.0,
+        "excerpt": "Sell on Meesho\n\u2714 How to Handle Incorrect Seller Penalty | Reverse Shipping & Ot\n\u2714 How to Handle Incorrect Seller Penalty | Reverse Shipping & Ot\nWatch on\nWas this helpful?\nHow to Handle Incorrect Penalties\nThere are different penalties for different scenarios that lead to inefficiencies in the delivery\nprocess.\u00a0\nLet\u2019s dive into the different types of penalties we have at Meesho:\u00a0\n1. Auto Cancellat"
+      },
+      {
+        "ref": 2,
+        "title": "Learn More About Shipping & Delivery Charges For Meesho Supplier",
+        "source": "Learn More About Shipping & Delivery Charges for Meesho Supplier.pdf",
+        "page": 6,
+        "url": "",
+        "score": 0.5833,
+        "rerank_score": 1.0,
+        "excerpt": "In order to maintain a good customer experience for customers, it is important for you to\nensure that the products you have listed on Meesho are in stock and available to ship.\nHowever, we understand that there could be delays that are out of your control leading to\nlate dispatch or order cancellation. In that case, Meesho will not charge any penalty to you\nso you can continue to sell online witho"
+      }
+    ],
+    "retrieval": {
+      "reranker": "llm",
+      "retrieved": 20,
+      "candidates": 20,
+      "kept": 4,
+      "top_rerank_scores": [
+        1.0,
+        1.0,
+        1.0,
+        0.7,
+        0.4
+      ]
+    }
+  },
+  {
+    "conversation": "E-commerce returns and grievances in India",
+    "message_id": "7f5ef8fb-77d6-4345-ba9e-dd13fcaa997d",
+    "session_id": "bcf05b24-9110-4c05-befe-077e9d7afab7",
+    "question": "What return and refund information must a marketplace show to consumers?",
+    "standalone_question": "What return and refund information must a marketplace show to consumers?",
+    "answer": "Based on the Consumer Protection (E-Commerce) Rules, 2020 (India), a marketplace e-commerce entity must provide accurate information related to returns, refunds, exchange, warranty, guarantee, delivery, shipment, modes of payment, and grievance redressal mechanisms [4]. Additionally, they are required to display details about the sellers offering goods and services, including their business name, registration status, geographic address, customer care number, ratings, and aggregated feedback [4]. The rules also mandate that this information be displayed prominently in a clear and accessible manner at the appropriate place on the platform [4].",
+    "refused": false,
+    "sources": [
+      {
+        "ref": 4,
+        "title": "Consumer Protection (E-Commerce) Rules, 2020 (India)",
+        "source": "india_consumer_protection_ecommerce_rules_2020.pdf",
+        "page": 3,
+        "url": "https://taxguru.in/wp-content/uploads/2020/07/Consumer-Protection-E-Commerce-Rules-2020.pdf",
+        "score": 0.6074,
+        "rerank_score": 1.0,
+        "excerpt": "(2) Every marketplace e -commerce entity sh all require sellers through an undertaking to ensure that descriptions, \nimages, and other content pertaining to goods or services on their platform is accurate and corresponds directly \nwith the appearance, nature, quality, purpose and other general features of such good or service. \n(3) Every marketplace e -commerce entity shall provide the following i"
+      }
+    ],
+    "retrieval": {
+      "reranker": "llm",
+      "retrieved": 20,
+      "candidates": 20,
+      "kept": 4,
+      "top_rerank_scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.7
+      ]
+    }
+  },
+  {
+    "conversation": "E-commerce returns and grievances in India",
+    "message_id": "8bc64f63-4e9d-4437-b1b4-383c713c80d6",
+    "session_id": "bcf05b24-9110-4c05-befe-077e9d7afab7",
+    "question": "What about complaints - how fast must they be handled?",
+    "standalone_question": "What are the time limits for handling consumer complaints regarding returns, refunds, exchanges, warranties, or grievances on a marketplace?",
+    "answer": "Based on the Consumer Protection (E-Commerce) Rules, 2020 (India), an e-commerce entity's grievance officer must acknowledge the receipt of any consumer complaint within forty-eight hours and redress the complaint within one month from the date of receipt of the complaint [3].",
+    "refused": false,
+    "sources": [
+      {
+        "ref": 3,
+        "title": "Consumer Protection (E-Commerce) Rules, 2020 (India)",
+        "source": "india_consumer_protection_ecommerce_rules_2020.pdf",
+        "page": 3,
+        "url": "https://taxguru.in/wp-content/uploads/2020/07/Consumer-Protection-E-Commerce-Rules-2020.pdf",
+        "score": 0.6198,
+        "rerank_score": 0.7,
+        "excerpt": "[\u092d\u093e\u0917 II\u2014\u0916\u0923\u094d \u0921 3(i)] \u092d\u093e\u0930\u0924 \u0915\u093e \u0930\u093e\u091c\u092a\u0924\u094d\u0930 : \u0904\u0938\u093e\u0927\u093e\u0930\u0923 9 \n(5) Every e-commerce entity shall ensure that the grievance officer referred to in sub -rule (4) acknowledges \nthe receipt of any consumer complaint within forty -eight hours and redresses the complaint withi n one \nmonth from the date of receipt of the complaint. \n(6) Where an e -commerce entity offers imported goods or services for sale, it shall "
+      }
+    ],
+    "retrieval": {
+      "reranker": "llm",
+      "retrieved": 20,
+      "candidates": 20,
+      "kept": 4,
+      "top_rerank_scores": [
+        0.7,
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ]
+    }
+  },
+  {
+    "conversation": "E-commerce returns and grievances in India",
+    "message_id": "54a07306-05a7-4dbf-92eb-1ad3f22953d4",
+    "session_id": "bcf05b24-9110-4c05-befe-077e9d7afab7",
+    "question": "Does this apply to someone selling their old phone in a personal capacity?",
+    "standalone_question": "Does the Consumer Protection (E-Commerce) Rules, 2020 return and refund policy apply to someone selling their old phone in a personal capacity?",
+    "answer": "No, these rules do not apply to someone selling their old phone in a personal capacity. According to the Consumer Protection (E-Commerce) Rules, 2020 (India), the rules shall not apply to any activity of a natural person carried out in a personal capacity that is not part of any professional or commercial activity undertaken on a regular or systematic basis [1].",
+    "refused": false,
+    "sources": [
+      {
+        "ref": 1,
+        "title": "Consumer Protection (E-Commerce) Rules, 2020 (India)",
+        "source": "india_consumer_protection_ecommerce_rules_2020.pdf",
+        "page": 1,
+        "url": "https://taxguru.in/wp-content/uploads/2020/07/Consumer-Protection-E-Commerce-Rules-2020.pdf",
+        "score": 0.5772,
+        "rerank_score": 1.0,
+        "excerpt": "(c) all e-commerce retail, including multi-channel single brand retailers and single brand retailers in single or \nmultiple formats; and \n(d) all forms of unfair trade practices across all models of e-commerce: \n Provided that these rules shall not apply to any activity of a natural person carried out in a personal \ncapacity not being part of any professional or commercial activity undertaken on a"
+      }
+    ],
+    "retrieval": {
+      "reranker": "llm",
+      "retrieved": 20,
+      "candidates": 20,
+      "kept": 4,
+      "top_rerank_scores": [
+        1.0,
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ]
+    }
+  },
+  {
+    "conversation": "Consumer rights under Indian law",
+    "message_id": "275d51f5-7a2c-4da0-99f7-36f8b59b698c",
+    "session_id": "057241b8-2635-429f-a90c-f5042c77cccc",
+    "question": "What rights does a consumer have under the Consumer Protection Act, 2019?",
+    "standalone_question": "What rights does a consumer have under the Consumer Protection Act, 2019?",
+    "answer": "Based on the Cp Act 2019 1732700731, consumers have the following rights:\n\n*   The right to be protected against the marketing of goods, products or services which are hazardous to life and property [1][2].\n*   The right to be informed about the quality, quantity, potency, purity, standard and price of goods, products or services so as to protect the consumer against unfair trade practices [1].",
+    "refused": false,
+    "sources": [
+      {
+        "ref": 1,
+        "title": "Cp Act 2019 1732700731",
+        "source": "CP Act 2019_1732700731.pdf",
+        "page": 3,
+        "url": "",
+        "score": 0.5946,
+        "rerank_score": 0.7,
+        "excerpt": "(i) the right to be protected against the marketing of goods, products or\nservices which are hazardous to life and property;\n(ii) the right to be informed about the quality, quantity, potency, purity,\nstandard and price of goods, products or services, as the case may be, so as to\nprotect the consumer against unfair trade practices;"
+      },
+      {
+        "ref": 2,
+        "title": "Cp Act 2019 1732700731",
+        "source": "CP Act 2019_1732700731.pdf",
+        "page": 3,
+        "url": "",
+        "score": 0.5474,
+        "rerank_score": 0.7,
+        "excerpt": "paid and partly promised, or under any system of deferred payment, when such\nservices are availed of with the approval of the first mentioned person, but does\nnot include a person who avails of such service for any commercial purpose.\nExplanation.\u2014For the purposes of this clause,\u2014\n(a) the expression \"commercial purpose\" does not include use by a\nperson of goods bought and used by him exclusively f"
+      }
+    ],
+    "retrieval": {
+      "reranker": "llm",
+      "retrieved": 20,
+      "candidates": 20,
+      "kept": 4,
+      "top_rerank_scores": [
+        0.7,
+        0.7,
+        0.7,
+        0.4,
+        0.4
+      ]
+    }
+  },
+  {
+    "conversation": "Consumer rights under Indian law",
+    "message_id": "39dd241d-db91-4908-b80b-d62f15c537e6",
+    "session_id": "057241b8-2635-429f-a90c-f5042c77cccc",
+    "question": "Where can I file a complaint if a defective product is not refunded?",
+    "standalone_question": "Where can I file a complaint if a defective product is not refunded?",
+    "answer": "I don't have enough information in the provided documents.",
+    "refused": true,
+    "sources": [],
+    "retrieval": {
+      "reranker": "llm",
+      "retrieved": 20,
+      "candidates": 20,
+      "kept": 4,
+      "top_rerank_scores": [
+        1.0,
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ]
+    }
+  },
+  {
+    "conversation": "Product manual and warranty",
+    "message_id": "74f1f69b-7957-4b99-b92d-c57f61c13c6d",
+    "session_id": "3209fad9-4d3f-4d19-aadd-7573763268dd",
+    "question": "How often should I replace the filters in the Havells Siphon water purifier?",
+    "standalone_question": "How often should I replace the filters in the Havells Siphon water purifier?",
+    "answer": "Based on the provided documents, there is no specific instruction stating exactly how often you must replace the filters. However, the manuals indicate that the device monitors filter life expectancy to help you plan maintenance [4], and replacement is required \"as per\" the needs of the system during the warranty period [1][3]. The documents do specify which parts are covered by free replacement (all filters except RO & UF membranes) versus those not covered (RO membrane, UF membrane, plastic parts) [2].",
+    "refused": false,
+    "sources": [
+      {
+        "ref": 1,
+        "title": "Siphon Wp Manual 1",
+        "source": "Siphon_WP_Manual_1.pdf",
+        "page": 13,
+        "url": "",
+        "score": 0.6767,
+        "rerank_score": 0.4,
+        "excerpt": "20 21\nFAQs\n1. What is TDS? \n TDS stands for Total Dissolved Solids in water . This affects taste of water and \n beverages prepared with such water . \n2. Is the purification process completely automated or a manual intervention is required? \ufffd\nThe purification process is completely automatic. Purification starts when water level \ngoes down and stops once water tank is full.\n3. How much time does it "
+      },
+      {
+        "ref": 2,
+        "title": "Siphon Wp Manual 1",
+        "source": "Siphon_WP_Manual_1.pdf",
+        "page": 13,
+        "url": "",
+        "score": 0.6534,
+        "rerank_score": 0.4,
+        "excerpt": "membrane as mentioned below.\n What Covered: Two times Preventive Maintenance Visit, One time replacement of all the \nfilters Except RO & UF membrane, Electrical parts like Internal pump, PCB, Wiring \nharness, & Solenoid Valve.\n What not covered: RO membrane, UF membrane & plastic parts.\n5. Is the water from first purification cycle fit to drink? \n No, it is not recommended to either store or drink"
+      },
+      {
+        "ref": 3,
+        "title": "Siphon Wp Manual 1",
+        "source": "Siphon_WP_Manual_1.pdf",
+        "page": 14,
+        "url": "",
+        "score": 0.6365,
+        "rerank_score": 0.4,
+        "excerpt": "22 23\nWARRANTY TERMS AND CONDITIONS\nWe are an environment conscious company and have started an initiative to dispose \nthe product wastes like replaced parts and filters in an environment friendly \nmanner . You are advised to handover the replaced parts and discarded filters to our \nservice engineers and we will ensure that these parts are disposed of without \ncausing any harm to the environment.\n"
+      },
+      {
+        "ref": 4,
+        "title": "Siphon Wp Manual 1",
+        "source": "Siphon_WP_Manual_1.pdf",
+        "page": 8,
+        "url": "",
+        "score": 0.6062,
+        "rerank_score": 0.4,
+        "excerpt": "KEY FEATURES OF\nHAVELLS WATER PURIFIER\nMonitors and displays the filter life expectancy to help \nyou plan comprehensive maintenance in advance.\nCARTRIDGE LIFE INDICATOR:D.\nStops external invasion of insects and dust particles.\nINGRESS PROTECTION TANK COVER:E.\n10 11\nC. MEMBRANE PERFORMANCE ENHANCER\nIt prevents scaling formation on RO Membrane due to \nhardness in feed water, which results in improve"
+      }
+    ],
+    "retrieval": {
+      "reranker": "llm",
+      "retrieved": 20,
+      "candidates": 20,
+      "kept": 4,
+      "top_rerank_scores": [
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.0
+      ]
+    }
+  },
+  {
+    "conversation": "Product manual and warranty",
+    "message_id": "ee172bcb-6d8a-469d-bc1f-ea19a2479bad",
+    "session_id": "3209fad9-4d3f-4d19-aadd-7573763268dd",
+    "question": "What does the Bajaj mixer grinder warranty cover?",
+    "standalone_question": "What does the Bajaj mixer grinder warranty cover?",
+    "answer": "I don't have enough information in the provided documents.",
+    "refused": true,
+    "sources": [],
+    "retrieval": {
+      "reranker": "llm",
+      "retrieved": 20,
+      "candidates": 20,
+      "kept": 0,
+      "top_rerank_scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "conversation": "Product manual and warranty",
+    "message_id": "9ff68c0c-c25c-4e78-b20c-97729dd650f9",
+    "session_id": "3209fad9-4d3f-4d19-aadd-7573763268dd",
+    "question": "Does it cover the blades?",
+    "standalone_question": "Does the Bajaj mixer grinder warranty cover the blades?",
+    "answer": "I don't have enough information in the provided documents.",
+    "refused": true,
+    "sources": [],
+    "retrieval": {
+      "reranker": "llm",
+      "retrieved": 20,
+      "candidates": 20,
+      "kept": 0,
+      "top_rerank_scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "conversation": "Out-of-scope questions (should refuse)",
+    "message_id": "dea87a31-351c-4fe9-8845-018056804c81",
+    "session_id": "9474bfd1-29b5-4ea3-8903-96c70b38332f",
+    "question": "What is Flipkart's return window for mobile phones?",
+    "standalone_question": "What is Flipkart's return window for mobile phones?",
+    "answer": "I don't have enough information in the provided documents.",
+    "refused": true,
+    "sources": [],
+    "retrieval": {
+      "reranker": "llm",
+      "retrieved": 20,
+      "candidates": 20,
+      "kept": 0,
+      "top_rerank_scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "conversation": "Out-of-scope questions (should refuse)",
+    "message_id": "0dfd9832-5017-47b8-b3c6-0b35ff95663b",
+    "session_id": "9474bfd1-29b5-4ea3-8903-96c70b38332f",
+    "question": "Who won the cricket world cup?",
+    "standalone_question": "Who won the cricket world cup?",
+    "answer": "I don't have enough information in the provided documents.",
+    "refused": true,
+    "sources": [],
+    "retrieval": {
+      "reranker": "llm",
+      "retrieved": 20,
+      "candidates": 20,
+      "kept": 0,
+      "top_rerank_scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  }
+]

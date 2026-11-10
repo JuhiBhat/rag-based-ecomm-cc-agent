@@ -1,0 +1,28 @@
+# LangChain + model providers (OpenAI cloud, Ollama local)
+langchain-core>=1.0,<2.0
+langchain-openai>=1.0,<2.0
+langchain-ollama>=1.0,<2.0
+langchain-text-splitters>=1.0,<2.0
+openai>=1.40
+
+# Vector store
+langchain-qdrant>=1.0,<2.0
+qdrant-client>=1.12
+
+# Document loading
+pypdf>=5.0
+beautifulsoup4>=4.12
+requests>=2.31
+
+# Service + UI
+fastapi>=0.115
+uvicorn[standard]>=0.30
+streamlit>=1.38
+python-dotenv>=1.0
+pydantic>=2.7
+
+# Optional: RERANKER=cross-encoder
+# sentence-transformers>=3.0
+
+# Optional: CHUNKING_STRATEGY=semantic
+# langchain-experimental>=0.3
